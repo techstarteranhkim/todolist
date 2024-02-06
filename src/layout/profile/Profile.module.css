@@ -1,0 +1,22 @@
+.gallerypost {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.image-container {
+  text-align: center;
+  img {
+    margin: 10px;
+    width: 75px;
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+    border-radius: 50%;
+  }
+}
+
+.text-container {
+  align-items: center;
+  text-align: center;
+}
