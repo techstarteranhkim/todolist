@@ -22,7 +22,7 @@ function Navbar() {
         onClick={() => console.log("Weiterleitung zu index.html")}
       >
         <img
-          src="https://png2.cleanpng.com/sh/83bc34b74b0597fda0480ed238a69cb3/L0KzQYm3V8AyN6NAR91yc4Pzfri0gBF1NahmhN42ZHXmcb20kCRqa5xqip90aYT3dbA0gB9wdF5yhAZ4LUXlQ4mBgsQ0amJqftU6Lka6SIe5WME2OWY4SKY8MkO1Q4i5WMgveJ9s/kisspng-cat-wall-decal-sticker-kitten-cool-moto-5b388b43b1efc1.6786281515304323237288.png"
+          src="https://www.freeiconspng.com/uploads/to-do-list-icon-buy-this-icon-for--0-48-1.png"
           alt="Logo"
         />
       </a>

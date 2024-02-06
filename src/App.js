@@ -1,5 +1,6 @@
 import "./App.css";
 import Background from "./layout/background";
+import Navbar from "./layout/navbar/Navbar";
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <header></header>
       <body>
         <Background></Background>
+        <Navbar></Navbar>
       </body>
     </div>
   );
