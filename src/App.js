@@ -21,6 +21,9 @@ function App() {
 
   return (
     <div>
+      <header>
+        <Navbar></Navbar>
+      </header>
       <body>
         <Background></Background>
         <TodoList></TodoList>
