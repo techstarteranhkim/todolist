@@ -17,7 +17,7 @@ function Navbar() {
   return (
     <div className={styles.navbar}>
       <a
-        href="#"
+        href=""
         className="logo-container"
         onClick={() => console.log("Weiterleitung zu index.html")}
       >
